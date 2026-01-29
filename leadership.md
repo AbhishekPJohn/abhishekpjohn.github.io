@@ -3,6 +3,8 @@ layout: default
 title: Leadership & Administration
 ---
 
+[← Home](/)
+
 ## Leadership & Administration
 
 Alongside my academic work, I bring extensive experience in institutional leadership, program coordination, and organizational administration across educational, ecclesial, and nonprofit contexts. My leadership practice has been shaped by work in South Asia and the United States, often within settings that bridge scholarship, formation, and public engagement.
