@@ -9,9 +9,10 @@ I am a historian of modern Christianity with a focus on evangelical movements in
 
 ## Explore
 
-- [Research](research.md)
-- [Publications](publications.md)
-- [Teaching & Engagement](teaching.md)
-- [Leadership & Administration](leadership.md)
-- [Essays / Updates](essays.md)
-- [Contact](contact.md)
+- [Research](research.html)
+- [Publications](publications.html)
+- [Teaching & Engagement](teaching.html)
+- [Talks & Media](talks.html)
+- [Leadership & Administration](leadership.html)
+- [Essays / Updates](essays.html)
+- [Contact](contact.html)
