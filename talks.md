@@ -3,6 +3,8 @@ layout: default
 title: Talks & Media
 ---
 
+[← Home](/)
+
 ## Selected Conference Papers, Talks, and Presentations
 
 - “J. Elwin Wright’s Global Vision of an Evangelical Coalition,” *World Christianity Conference*, Princeton Theological Seminary, March 2025.
