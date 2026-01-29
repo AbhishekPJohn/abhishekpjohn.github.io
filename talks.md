@@ -3,14 +3,23 @@ layout: default
 title: Talks & Media
 ---
 
-## Invited Talks & Conference Presentations
-*(A full list of talks and presentations is available in my CV.)*
+## Selected Conference Papers, Talks, and Presentations
+
+- “J. Elwin Wright’s Global Vision of an Evangelical Coalition,” *World Christianity Conference*, Princeton Theological Seminary, March 2025.
+
+- “Resilience in Community: Indian Christian Responses to Persecution,” *Boston University Institute on Religion, Culture and World Affairs (BUIC) / Center on Faith & Public Life*, BOISI Center (Boston College), April 2025.
+
+- “Religious Conversion Narratives in Judicial Reports,” *American Academy of Religion (AAR) Annual Meeting*, San Diego, November 2024.
+
+- “Christian Response in the Wake of the Easter Sunday Bombings in Sri Lanka,” *Interreligious Dialogue hosted by the Permanent Mission of Sri Lanka to the United Nations*, Geneva, Switzerland, May 5, 2019.
+
+- “Hospitality to the Other,” *Sri Lankan Independence Day All Religions Gathering*, Permanent Mission of Sri Lanka to the United Nations, Geneva, Switzerland, February 4, 2019.
+
+*(A complete list of talks and presentations is available in my CV.)*
 
 ---
 
-## Selected Video Seminars (Moderator)
-
-Below are selected public seminars I moderated.
+## Selected Public Seminars (Moderator)
 
 ### Creation Care
 <iframe width="560" height="315"
