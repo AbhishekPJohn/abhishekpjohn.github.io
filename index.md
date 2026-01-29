@@ -3,7 +3,8 @@ layout: default
 title: Abhishek P. John
 ---
 
-<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap; margin-top: 1em;">
+<div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top: 1.5em;">
+
   <div style="flex:0 0 180px;">
     <img src="/assets/profile.jpg"
          alt="Abhishek P. John"
@@ -18,12 +19,13 @@ title: Abhishek P. John
     <p style="margin-top: 0.75em;">
       <strong>Quick links:</strong>
       <a href="/Abhishek_P_John_CV.pdf">CV (PDF)</a> ·
-      <a href="/research.html">Research</a> ·
-      <a href="/publications.html">Publications</a> ·
-      <a href="/talks.html">Talks & Media</a> ·
-      <a href="/contact.html">Contact</a>
+      <a href="research.html">Research</a> ·
+      <a href="publications.html">Publications</a> ·
+      <a href="talks.html">Talks & Media</a> ·
+      <a href="contact.html">Contact</a>
     </p>
   </div>
+
 </div>
 
 ---
