@@ -18,7 +18,7 @@ title: Abhishek P. John
 
     <p style="margin-top: 0.75em;">
       <strong>Quick links:</strong>
-      <a href="/Abhishek_P_John_CV.pdf">CV (PDF)</a> ·
+      <a href="/Abhishek_P_John_CV_Public.pdf">CV (PDF)</a> ·
       <a href="research.html">Research</a> ·
       <a href="publications.html">Publications</a> ·
       <a href="talks.html">Talks & Media</a> ·
