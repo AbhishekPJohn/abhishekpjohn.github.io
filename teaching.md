@@ -3,6 +3,9 @@ layout: default
 title: Teaching & Engagement
 ---
 
+[← Home](/)
+
+
 ## Teaching & Engagement
 
 I view teaching as a collaborative process of knowledge-making that invites students to engage deeply with religious traditions, histories, and communities. My goal is to cultivate classrooms where students learn to think critically, read attentively, and understand religion not only as a body of ideas but also as a lived and historically embedded reality.
