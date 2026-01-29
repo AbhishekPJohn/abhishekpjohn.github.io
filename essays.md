@@ -3,6 +3,8 @@ layout: default
 title: Essays & Updates
 ---
 
+[← Home](/)
+
 ## Essays & Updates
 
 ### The Global State of Ecumenism: Reflections on WCC and Mission
