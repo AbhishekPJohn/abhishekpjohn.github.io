@@ -3,6 +3,9 @@ layout: default
 title: Publications
 ---
 
+[← Home](/)
+
+
 ## Journal Articles
 
 - Prabhakar John, Abhishek. “Christological Themes in the *Physiologus* and its Place in Medieval Theology.” *Doon Theological Journal* 19, no. 1–2 (June & December 2022): 118–134.
