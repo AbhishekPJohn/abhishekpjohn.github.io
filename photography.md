@@ -3,6 +3,9 @@ layout: default
 title: Photography
 ---
 
+[← Home](/)
+
+
 ## Photography
 
 Alongside my academic work, I practice bird photography as a discipline of attention—patient observation, fieldcraft, and the craft of seeing.
