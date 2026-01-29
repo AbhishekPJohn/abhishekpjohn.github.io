@@ -3,8 +3,8 @@ layout: default
 title: Abhishek P. John
 ---
 
-# Abhishek P. John
-Historian of Global Christianity | Educator | Program Builder
+## Historian of Global Christianity | Educator | Program Builder
+
 
 I am a historian of modern Christianity with a focus on evangelical movements in South Asia and their transnational connections with global evangelical networks. My work brings together historical research, teaching, and institutional leadership in academic and faith-based contexts.
 
