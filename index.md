@@ -15,4 +15,5 @@ I am a historian of modern Christianity with a focus on evangelical movements in
 - [Talks & Media](talks.html)
 - [Leadership & Administration](leadership.html)
 - [Essays / Updates](essays.html)
+- [Photography](photography.html)
 - [Contact](contact.html)
