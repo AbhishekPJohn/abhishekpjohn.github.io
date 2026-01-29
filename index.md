@@ -5,10 +5,12 @@ title: Abhishek P. John
 
 I am a historian of modern Christianity with a focus on evangelical movements in South Asia and their transnational connections with global evangelical networks. My work brings together historical research, teaching, and institutional leadership across academic and faith-based contexts.
 
-<img src="/assets/profile/AH0A9461.jpg"
-     alt="Abhishek P. John"
-     width="200"
-     style="float:left; margin: 0 1.5em 1em 0; border-radius: 4px;">
+<p style="text-align:center;">
+  <img src="/assets/profile/AH0A9461.jpg"
+       alt="Abhishek P. John"
+       width="220"
+       style="border-radius: 4px; margin: 1em 0 1.5em 0;">
+</p>
 
 ---
 
