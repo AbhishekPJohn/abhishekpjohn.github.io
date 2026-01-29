@@ -10,4 +10,4 @@ For academic, administrative, or collaborative inquiries, please feel free to ge
 
 - Email: abhishekpjohn@hotmail.com
 - LinkedIn: [abhishek-p-john-57519896](https://www.linkedin.com/in/abhishek-p-john-57519896/)
-- Curriculum Vitae: [Download CV (PDF)](Abhishek_P_John_CV.pdf)
+- Curriculum Vitae: [Download CV (PDF)](Abhishek_P_John_CV_Public.pdf)
