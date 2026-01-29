@@ -17,11 +17,9 @@ The following courses represent a selection of my teaching experience and areas 
 
 - Modern Religious and Secular Movements  
 - History of Christianity in the World  
-- History of Christianity in India  
-- Old Testament Survey  
+- History of Christianity in India   
 - Research Methodology  
-- Spiritual Practices  
-
+ 
 ### Teaching Commitments
 - **Collaborative, discussion-driven classrooms** that emphasize student participation  
 - **Close reading and historical analysis** of primary texts and traditions  
