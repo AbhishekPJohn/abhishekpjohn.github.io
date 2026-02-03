@@ -22,10 +22,10 @@ title: Publications
 
 ## Other Articles
 
-- Prabhakar John, Abhishek, “Minority Rights.” AIM 46, no. 3 (December 2019).
+- Prabhakar John, Abhishek, “Minority Rights.” *AIM* 46, no. 3 (December 2019).
 
-- Prabhakar John, Abhishek, “Praying with the Persecuted Church,” AIM, 48, no. 11 (November 2019): 34-36.
+- Prabhakar John, Abhishek, “Praying with the Persecuted Church,” *AIM* 48, no. 11 (November 2019): 34-36.
 
-- Prabhakar John, Abhishek, “The Love of Christ Compels us,” AIM, 48, no. 9 (September 2019): 23-25.
+- Prabhakar John, Abhishek, “The Love of Christ Compels us,” *AIM* 48, no. 9 (September 2019): 23-25.
 
-- Prabhakar John, Abhishek, “The Impact of MPFRA 1968 on the Christian Community,” AIM, 46, no. 11 (November 2017): 16-21.
+- Prabhakar John, Abhishek, “The Impact of MPFRA 1968 on the Christian Community,” *AIM* 46, no. 11 (November 2017): 16-21.
